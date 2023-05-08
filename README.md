@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dvdmon
-- 👀 I’m interested in nutrition, web development, technology
-- 🌱 I’m currently learning Express, MongoDB, NodeJS, etc.
+- 👀 I’m interested in heath, nutrition, consciousness, reality, and technology.  
+- 🌱 I’m currently learning ASP.Net Core
 - 💞️ I’m looking to collaborate on ... nothing right now
 - 📫 How to reach me - add a comment here.
 
