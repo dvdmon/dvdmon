@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dvdmon
-- 👀 I’m interested in heath, nutrition, consciousness, reality, and technology.  
-- 🌱 I’m currently learning ASP.Net Core
+- 👀 I’m interested in heath, nutrition, consciousness, AI, and technology in general.  
+- 🌱 In the next 6 months or so I'm hoping to delve into Android programming in Kotlin and React
 - 💞️ I’m looking to collaborate on ... nothing right now
 - 📫 How to reach me - add a comment here.
 
