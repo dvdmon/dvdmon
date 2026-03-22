@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on ... nothing right now
 - 📫 How to reach me - add a comment here.
 
-<!---
-dvdmon/dvdmon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PGP Fingerprint:
+695D 1837 277C 3D50 80E0 785D FE76 422A F86C 44DA
